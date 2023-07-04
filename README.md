@@ -4,7 +4,7 @@
 
 This dataset consists of tv shows and movies available on Netflix as of 2019. The dataset is collected from Flixable which is a third-party Netflix search engine. In 2018, they released an interesting report which shows that the number of TV shows on Netflix has nearly tripled since 2010. The streaming service's number of movies has decreased by more than 2,000 titles since 2010, while its number of TV shows has nearly tripled. It will be interesting to explore what all other insights can be obtained from the same dataset.
 
-![1](https://github.com/KamalRawalCS/Netflix-Movies-and-TV-Shows-Clustering/assets/138231554/0ea83ac4-03ad-40b8-b79c-3fa34ddd352c)
+![6](https://github.com/KamalRawalCS/Netflix-Movies-and-TV-Shows-Clustering/assets/138231554/33eb407b-ee0f-4a4d-8639-172daed8cbfe)
 
 
 **Approaches:-**
